@@ -1,0 +1,32 @@
+.popup-false {
+    display: none;
+}
+
+.popup-true {
+    display: block;
+    position: fixed;
+
+    z-index: 9;
+
+    height: 90vh;
+    width: 95vw;
+
+    top: 5%;
+
+    background-color:#282c34;
+    border: solid white;
+}
+
+
+.exitButton {
+    width: 10%;
+    height: 5%;
+    position: absolute;
+    right: 0%;
+
+    background-color: rgb(149, 0, 0); 
+}
+
+.exitButton:hover {
+    background-color: red;
+}

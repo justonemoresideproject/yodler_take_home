@@ -1,0 +1,19 @@
+.navbar-root {
+    position: absolute;
+    top: 0;
+
+    display: inline-flex;
+    justify-content: space-evenly;
+
+    width: 100vw;
+}
+
+.navLink {
+    color: rgb(155, 93, 212);
+    text-decoration: none;
+}
+
+.navLink:hover {
+    text-decoration: underline;
+    color: rgb(112, 5, 211);
+}

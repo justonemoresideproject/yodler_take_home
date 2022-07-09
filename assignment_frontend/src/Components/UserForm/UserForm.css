@@ -1,0 +1,64 @@
+.success {
+    color: green;
+}
+
+.rejection {
+    color: red;
+}
+
+.noShow {
+    opacity: 0;
+}
+
+h1 {
+    margin-bottom: 3px;
+}
+
+h4 {
+    margin-top: 5px;
+    margin-bottom: 2px;
+    margin-left: 0px;
+    margin-right: 90%;
+    left: 0px;
+}
+
+.label {
+    margin-top: 5px;
+    margin-bottom: 0px;
+    margin-left: 5px;
+    margin-right: 5px;
+    left: 0px;
+    align-self: left;
+}
+
+.input {
+    margin-right: 5px;
+    border: none;
+    font-size: 80%;
+}
+
+form {
+    position: relative;
+}
+
+button {
+    border: none;
+    background-color: rgb(12, 210, 12);
+    size: 80%;
+    font-size: 80%;
+    color: white;
+    margin-right: 1px;
+    margin-left: 1px;
+}
+
+button:hover {
+    background-color: rgb(16, 252, 16);
+}
+
+.hide {
+    opacity: 10%;
+}
+
+.hide:hover {
+    background-color: rgb(12, 210, 12);
+}

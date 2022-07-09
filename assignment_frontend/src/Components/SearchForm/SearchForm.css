@@ -1,0 +1,19 @@
+form {
+    margin-top: 4%;
+}
+
+.searchForm {
+    margin-left: 0;
+    margin-right: 5%;
+    
+    padding-right: 7%;
+    padding-left: 0px;
+}
+
+.loading-hide {
+    display: none;
+}
+
+.loading-show {
+    display: inline-block;
+}
